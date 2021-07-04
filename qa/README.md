@@ -58,7 +58,7 @@ to recover with:
 
 ```bash
 rm -rf cache
-killall bitcoind
+killall robeed
 ```
 
 Writing tests
